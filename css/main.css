@@ -1,0 +1,78 @@
+h1 {
+    font-family: 'Abril Fatface', cursive; font-size: 30px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    margin-bottom: 5px;
+    font-size: 17px;
+    font-weight: 600;
+}
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.jeepix {
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.Expertprograme{
+    margin-bottom: 12px;
+}
+
+
+
+
+.container {
+    background-color: lightgrey;
+    background-image: url(https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1347&q=80);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 125px;
+    margin-bottom: 30px;
+}
+
+.name{
+    margin-bottom: 15px;
+}
+
+.job { 
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+}
+
+.aboutme {
+    color: rgb(0, 0, 0) 
+}
+
+.contact {
+    margin-bottom: 20px; 
+}
+.contact-item {
+    margin-bottom: 4px;
+}
+.contact-icon{
+    margin-right: 8px;
+    width: 16px;
+}
+.content {
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+.programe {
+    margin-bottom: 30px;
+}
+
+
+    .button {
+        background-color: black;
+        color: white;
+        padding: 8px 12px;
+    
+
+    }
